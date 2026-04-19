@@ -1,0 +1,4 @@
+resource_level_tertile,sample_size,mean_wer,median_wer
+Low,14,9.877142857142857,7.800000000000001
+Medium,10,7.699,5.74
+High,26,10.52730769230769,7.15

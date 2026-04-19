@@ -1,0 +1,5 @@
+metric,value
+rows_in_master_data,132
+eligible_for_main_analysis,54
+eligible_with_wer,50
+final_regression_sample,50

@@ -1,0 +1,7 @@
+resource_level_tertile,transcript_type_binary,count,cell_flag
+Low,standard_reference,7,OK
+Low,curated_reference,7,OK
+Medium,standard_reference,8,OK
+Medium,curated_reference,2,TINY(<5)
+High,standard_reference,18,OK
+High,curated_reference,8,OK

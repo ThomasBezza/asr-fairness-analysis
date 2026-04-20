@@ -1,0 +1,5 @@
+asr_model_name_standardized,benchmark_name_standardized,transcript_type_binary,group_row_count,delta_wer_reported,worst_group_wer_reported,macro_avg_wer_reported,micro_avg_wer_reported,micro_avg_notes,resource_level_tertile
+Whisper large-v2,AMI,standard_reference,2,19.5,36.4,26.65,,not_computed_no_weight_column,High
+Whisper large-v2,Fair-Speech,curated_reference,2,5.56,9.52,6.74,,not_computed_no_weight_column,High
+Whisper large-v2,LibriSpeech,standard_reference,2,2.5,5.2,3.95,,not_computed_no_weight_column,High
+Whisper small,Fair-Speech,curated_reference,6,12.48,16.99,9.188333333333334,,not_computed_no_weight_column,High

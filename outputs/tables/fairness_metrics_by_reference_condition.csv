@@ -1,0 +1,4 @@
+metric,transcript_type_binary,sample_size,mean,median
+wer_reported,curated_reference,17,9.957647058823529,9.52
+wer_reported,standard_reference,33,9.687878787878788,7.0
+cer_reported,curated_reference,4,36.4275,38.515

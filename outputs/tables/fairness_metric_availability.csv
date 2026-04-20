@@ -1,0 +1,7 @@
+metric,non_missing_all_rows,non_missing_eligible_rows
+wer_reported,111,50
+cer_reported,14,4
+delta_wer_reported,0,0
+worst_group_wer_reported,0,0
+macro_avg_wer_reported,0,0
+micro_avg_wer_reported,0,0

@@ -1,0 +1,5 @@
+metric,resource_level_tertile,sample_size,mean,median,min,max
+worst_group_wer_reported,High,12,13.6925,11.66,3.9,36.4
+worst_group_wer_reported,Medium,1,14.21,14.21,14.21,14.21
+macro_avg_wer_reported,High,12,11.894027777777778,9.094166666666666,3.9,26.65
+macro_avg_wer_reported,Medium,1,14.21,14.21,14.21,14.21

@@ -1,0 +1,5 @@
+metric,non_missing_rows
+delta_wer_reported,113
+worst_group_wer_reported,113
+macro_avg_wer_reported,113
+micro_avg_wer_reported,0

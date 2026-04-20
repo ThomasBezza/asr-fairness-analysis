@@ -1,0 +1,6 @@
+Section,Result,N_or_groups,Key_statistic,p_value_or_note,Interpretation_note
+Main inferential result,WER regression (Model 2),50,R² = 0.027,Model p = 0.737,No statistically significant overall model detected.
+Exploratory inferential result,WER interaction model (Model 3),50,R² = 0.071,Model p = 0.646,Exploratory only; interaction sample is sparse.
+Supplemental fairness descriptives,delta_wer_reported,4,Mean = 10.010; Median = 9.020,Descriptive only,Range: 2.500 to 19.500
+Supplemental fairness descriptives,worst_group_wer_reported,13,Mean = 13.732; Median = 13.800,Descriptive only,Range: 3.900 to 36.400
+Supplemental fairness descriptives,macro_avg_wer_reported,13,Mean = 12.072; Median = 9.188,Descriptive only,Range: 3.900 to 26.650

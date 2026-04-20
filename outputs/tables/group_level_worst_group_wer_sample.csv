@@ -1,0 +1,14 @@
+asr_model_name_standardized,benchmark_name_standardized,transcript_type_binary,group_row_count,delta_wer_reported,worst_group_wer_reported,macro_avg_wer_reported,micro_avg_wer_reported,micro_avg_notes,resource_level_tertile
+Meta Emformer RNN-T (supervised),Fair-Speech,curated_reference,1,0.0,14.21,14.21,,not_computed_no_weight_column,Medium
+Whisper large-v2,AMI,standard_reference,2,19.5,36.4,26.65,,not_computed_no_weight_column,High
+Whisper large-v2,Artie,standard_reference,1,0.0,6.2,6.2,,not_computed_no_weight_column,High
+Whisper large-v2,CHiME-6,standard_reference,1,0.0,25.5,25.5,,not_computed_no_weight_column,High
+Whisper large-v2,CORAAL,standard_reference,1,0.0,16.2,16.2,,not_computed_no_weight_column,High
+Whisper large-v2,CallHome,standard_reference,1,0.0,17.6,17.6,,not_computed_no_weight_column,High
+Whisper large-v2,Common Voice,standard_reference,1,0.0,9.0,9.0,,not_computed_no_weight_column,High
+Whisper large-v2,Fair-Speech,curated_reference,2,5.56,9.52,6.74,,not_computed_no_weight_column,High
+Whisper large-v2,LibriSpeech,standard_reference,2,2.5,5.2,3.95,,not_computed_no_weight_column,High
+Whisper large-v2,Switchboard,standard_reference,1,0.0,13.8,13.8,,not_computed_no_weight_column,High
+Whisper large-v2,TED-LIUM 3,standard_reference,1,0.0,4.0,4.0,,not_computed_no_weight_column,High
+Whisper large-v2,WSJ,standard_reference,1,0.0,3.9,3.9,,not_computed_no_weight_column,High
+Whisper small,Fair-Speech,curated_reference,6,12.48,16.99,9.188333333333334,,not_computed_no_weight_column,High

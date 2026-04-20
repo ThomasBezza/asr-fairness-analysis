@@ -1,0 +1,4 @@
+metric,n_groups
+delta_wer_reported,4
+worst_group_wer_reported,13
+macro_avg_wer_reported,13

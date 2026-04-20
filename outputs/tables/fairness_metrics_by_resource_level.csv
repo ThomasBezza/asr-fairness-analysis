@@ -1,0 +1,5 @@
+metric,resource_level_tertile,sample_size,mean,median
+wer_reported,High,26,10.52730769230769,7.15
+wer_reported,Low,14,9.877142857142857,7.800000000000001
+wer_reported,Medium,10,7.699,5.74
+cer_reported,Low,4,36.4275,38.515

@@ -1,0 +1,4 @@
+Metric,N_groups,Mean,Median,Min,Max
+delta_wer_reported,4,10.01,9.02,2.5,19.5
+worst_group_wer_reported,13,13.732307692307693,13.8,3.9,36.4
+macro_avg_wer_reported,13,12.072179487179486,9.188333333333334,3.9,26.65

@@ -1,0 +1,4 @@
+metric,n_groups,n_unique_resource_levels,n_unique_reference_conditions
+delta_wer_reported,4,1,2
+worst_group_wer_reported,13,2,2
+macro_avg_wer_reported,13,2,2

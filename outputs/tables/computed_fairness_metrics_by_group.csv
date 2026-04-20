@@ -1,0 +1,26 @@
+asr_model_name_standardized,benchmark_name_standardized,transcript_type_binary,group_row_count,delta_wer_reported,worst_group_wer_reported,macro_avg_wer_reported,micro_avg_wer_reported,micro_avg_notes
+Avanegar,PSRB,curated_reference,1,0.0,19.3,19.3,,not_computed_no_weight_column
+CTC Transformer (5-gram LM),MLS,curated_reference,8,14.81,20.39,10.8075,,not_computed_no_weight_column
+Google Chirp V2,PSRB,curated_reference,1,0.0,19.92,19.92,,not_computed_no_weight_column
+Meta Emformer RNN-T (supervised),Fair-Speech,curated_reference,1,0.0,14.21,14.21,,not_computed_no_weight_column
+Meta Video (semi-supervised),Fair-Speech,curated_reference,1,0.0,4.9,4.9,,not_computed_no_weight_column
+Seamless-M4T-V2-large,PSRB,curated_reference,1,0.0,38.85,38.85,,not_computed_no_weight_column
+Whisper large-v2,AMI,standard_reference,2,19.5,36.4,26.65,,not_computed_no_weight_column
+Whisper large-v2,Artie,standard_reference,1,0.0,6.2,6.2,,not_computed_no_weight_column
+Whisper large-v2,CHiME-6,standard_reference,1,0.0,25.5,25.5,,not_computed_no_weight_column
+Whisper large-v2,CORAAL,standard_reference,1,0.0,16.2,16.2,,not_computed_no_weight_column
+Whisper large-v2,CallHome,standard_reference,1,0.0,17.6,17.6,,not_computed_no_weight_column
+Whisper large-v2,Common Voice,standard_reference,1,0.0,9.0,9.0,,not_computed_no_weight_column
+Whisper large-v2,FLEURS,standard_reference,24,153.5,156.5,27.345833333333335,,not_computed_no_weight_column
+Whisper large-v2,Fair-Speech,curated_reference,2,5.56,9.52,6.74,,not_computed_no_weight_column
+Whisper large-v2,LibriSpeech,standard_reference,2,2.5,5.2,3.95,,not_computed_no_weight_column
+Whisper large-v2,MLS,standard_reference,8,9.600000000000001,13.8,7.2625,,not_computed_no_weight_column
+Whisper large-v2,Switchboard,standard_reference,1,0.0,13.8,13.8,,not_computed_no_weight_column
+Whisper large-v2,TED-LIUM 3,standard_reference,1,0.0,4.0,4.0,,not_computed_no_weight_column
+Whisper large-v2,VoxPopuli,standard_reference,18,26.200000000000003,33.2,15.438888888888888,,not_computed_no_weight_column
+Whisper large-v2,WSJ,standard_reference,1,0.0,3.9,3.9,,not_computed_no_weight_column
+Whisper large-v3,PSRB,curated_reference,1,0.0,41.49,41.49,,not_computed_no_weight_column
+Whisper small,Fair-Speech,curated_reference,6,12.479999999999999,16.99,9.188333333333334,,not_computed_no_weight_column
+mSLAM-CTC 2B,BABEL,standard_reference,5,16.0,41.1,31.26,,not_computed_no_weight_column
+mSLAM-CTC 2B,MLS,standard_reference,8,9.399999999999999,15.2,9.7375,,not_computed_no_weight_column
+mSLAM-CTC 2B,VoxPopuli,standard_reference,14,9.4,15.4,9.12142857142857,,not_computed_no_weight_column

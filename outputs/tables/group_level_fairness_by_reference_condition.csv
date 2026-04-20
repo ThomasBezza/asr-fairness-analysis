@@ -1,0 +1,7 @@
+metric,transcript_type_binary,sample_size,mean,median,min,max
+delta_wer_reported,curated_reference,2,9.02,9.02,5.56,12.48
+delta_wer_reported,standard_reference,2,11.0,11.0,2.5,19.5
+worst_group_wer_reported,curated_reference,3,13.573333333333332,14.21,9.52,16.99
+worst_group_wer_reported,standard_reference,10,13.780000000000001,11.4,3.9,36.4
+macro_avg_wer_reported,curated_reference,3,10.046111111111111,9.188333333333334,6.74,14.21
+macro_avg_wer_reported,standard_reference,10,12.68,11.4,3.9,26.65

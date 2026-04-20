@@ -1,0 +1,29 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           wer_reported   R-squared:                       0.071
+Model:                            OLS   Adj. R-squared:                 -0.035
+Method:                 Least Squares   F-statistic:                    0.6726
+Date:                Sun, 19 Apr 2026   Prob (F-statistic):              0.646
+Time:                        19:39:14   Log-Likelihood:                -163.21
+No. Observations:                  50   AIC:                             338.4
+Df Residuals:                      44   BIC:                             349.9
+Df Model:                           5                                         
+Covariance Type:            nonrobust                                         
+=============================================================================================================================================================================================================================
+                                                                                                                                                                coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                                                                                                                     8.2429      2.550      3.232      0.002       3.103      13.382
+C(resource_level_tertile, Treatment(reference='Low'))[T.Medium]                                                                                              -1.1304      3.492     -0.324      0.748      -8.168       5.907
+C(resource_level_tertile, Treatment(reference='Low'))[T.High]                                                                                                 3.1516      3.005      1.049      0.300      -2.905       9.209
+C(transcript_type_binary, Treatment(reference='standard_reference'))[T.curated_reference]                                                                     3.2686      3.606      0.906      0.370      -4.000      10.537
+C(resource_level_tertile, Treatment(reference='Low'))[T.Medium]:C(transcript_type_binary, Treatment(reference='standard_reference'))[T.curated_reference]    -0.3361      6.439     -0.052      0.959     -13.313      12.641
+C(resource_level_tertile, Treatment(reference='Low'))[T.High]:C(transcript_type_binary, Treatment(reference='standard_reference'))[T.curated_reference]      -6.0868      4.607     -1.321      0.193     -15.372       3.198
+==============================================================================
+Omnibus:                       22.488   Durbin-Watson:                   1.792
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               36.098
+Skew:                           1.435   Prob(JB):                     1.45e-08
+Kurtosis:                       6.014   Cond. No.                         10.6
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

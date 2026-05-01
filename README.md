@@ -8,4 +8,4 @@ This repository contains the data, scripts, and figures for an AP Research proje
 ## Initial visual analyses
 - WER by resource level
 - WER by transcript/reference condition
-- Training hours vs WERR
+- Training hours vs WER

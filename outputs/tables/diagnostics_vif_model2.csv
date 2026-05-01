@@ -1,0 +1,4 @@
+variable,vif
+"C(resource_level_tertile, Treatment(reference='Low'))[T.High]",1.1741022850924918
+"C(resource_level_tertile, Treatment(reference='Low'))[T.Medium]",1.02829162132753
+"C(transcript_type_binary, Treatment(reference='standard_reference'))[T.curated_reference]",1.2023939064200218

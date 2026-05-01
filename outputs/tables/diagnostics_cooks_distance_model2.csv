@@ -1,0 +1,51 @@
+row_id,observation_unit_label,wer_reported,resource_level_tertile,transcript_type_binary,cooks_d,exceeds_threshold
+OBS034,Whisper large-v2 | English | AMI,36.4,High,standard_reference,0.19169612924823434,True
+OBS105,CTC Transformer (5-gram LM) | Polish | MLS,20.39,Low,curated_reference,0.0698706949463215,False
+OBS032,Whisper large-v2 | English | CHiME-6,25.5,High,standard_reference,0.06425392652027237,False
+OBS104,CTC Transformer (5-gram LM) | Portuguese | MLS,19.49,Low,curated_reference,0.05839393055688075,False
+OBS067,Meta Emformer RNN-T (supervised) | English/Black or African American | Fair-Speech,14.21,Medium,curated_reference,0.052124821104819606,False
+OBS041,Whisper large-v2 | Chinese | FLEURS,14.7,Medium,standard_reference,0.034800148046555165,False
+OBS066,Whisper large-v2 | English/White | Fair-Speech,3.96,High,curated_reference,0.023748545975186063,False
+OBS063,Whisper small | English/Black or African American | Fair-Speech,16.99,High,curated_reference,0.02252183390917173,False
+OBS064,Whisper small | English/White | Fair-Speech,4.51,High,curated_reference,0.019956132513637634,False
+OBS054,Whisper large-v2 | Portuguese | FLEURS,4.3,Low,standard_reference,0.01958266578865238,False
+OBS012,Whisper large-v2 | English-accented | VoxPopuli,18.6,High,standard_reference,0.018710543462650088,False
+OBS026,Whisper large-v2 | English | LibriSpeech,2.7,High,standard_reference,0.017456805732041482,False
+OBS069,Whisper small | English/Female | Fair-Speech,5.16,High,curated_reference,0.015899261331455944,False
+OBS046,Whisper large-v2 | Spanish | FLEURS,3.0,Medium,standard_reference,0.015567911355036079,False
+OBS036,Whisper large-v2 | English | CallHome,17.6,High,standard_reference,0.01436974382505817,False
+OBS072,Whisper small | English/L2 non-native | Fair-Speech,5.63,High,curated_reference,0.013252700503076935,False
+OBS050,Whisper large-v2 | Japanese | FLEURS,5.3,Low,standard_reference,0.013164241939818178,False
+OBS051,Whisper large-v2 | Korean | FLEURS,14.3,Low,standard_reference,0.012563585578862594,False
+OBS037,Whisper large-v2 | English | WSJ,3.9,High,standard_reference,0.01250573842816231,False
+OBS029,Whisper large-v2 | English | TED-LIUM 3,4.0,High,standard_reference,0.01213033426919515,False
+OBS101,CTC Transformer (5-gram LM) | French | MLS,5.58,Low,curated_reference,0.011863366249031056,False
+OBS033,Whisper large-v2 | English | AMI,16.9,High,standard_reference,0.01167156786179836,False
+OBS045,Whisper large-v2 | English | FLEURS,4.2,High,standard_reference,0.011396688158809785,False
+OBS039,Whisper large-v2 | English | FLEURS,4.4,High,standard_reference,0.010685924991823048,False
+OBS102,CTC Transformer (5-gram LM) | Spanish | MLS,6.07,Low,curated_reference,0.009325732584173997,False
+OBS030,Whisper large-v2 | English | CORAAL,16.2,High,standard_reference,0.009253707955171721,False
+OBS010,Whisper large-v2 | German | VoxPopuli,11.2,Medium,standard_reference,0.008726967292001807,False
+OBS008,Whisper large-v2 | Spanish | MLS,4.2,Medium,standard_reference,0.008619495865937693,False
+OBS027,Whisper large-v2 | English | LibriSpeech,5.2,High,standard_reference,0.008071701757862353,False
+OBS099,CTC Transformer (5-gram LM) | German | MLS,6.49,Low,curated_reference,0.00739337938645277,False
+OBS043,Whisper large-v2 | German | FLEURS,4.5,Medium,standard_reference,0.007200997443151112,False
+OBS007,Whisper large-v2 | Portuguese | MLS,6.8,Low,standard_reference,0.005918487761506546,False
+OBS031,Whisper large-v2 | English | Artie,6.2,High,standard_reference,0.005318788941880543,False
+OBS002,Whisper large-v2 | English | MLS,6.2,High,standard_reference,0.00531878894188054,False
+OBS098,CTC Transformer (5-gram LM) | English | MLS,5.88,Medium,curated_reference,0.004298147165997521,False
+OBS003,Whisper large-v2 | French | MLS,7.3,Low,standard_reference,0.004138404794053251,False
+OBS070,Whisper small | English/Male | Fair-Speech,13.3,High,curated_reference,0.004087259934638002,False
+OBS011,Whisper large-v2 | English | VoxPopuli,7.0,High,standard_reference,0.003528351670270343,False
+OBS004,Whisper large-v2 | German | MLS,5.5,Medium,standard_reference,0.0033930851101612214,False
+OBS035,Whisper large-v2 | English | Switchboard,13.8,High,standard_reference,0.0030920162970953556,False
+OBS055,Whisper large-v2 | Russian | FLEURS,5.6,Medium,standard_reference,0.003090175208959305,False
+OBS038,Whisper large-v2 | English | VoxPopuli,7.3,High,standard_reference,0.0029513298349358465,False
+OBS100,CTC Transformer (5-gram LM) | Dutch | MLS,12.02,Low,curated_reference,0.0028499932322159894,False
+OBS047,Whisper large-v2 | French | FLEURS,8.3,Low,standard_reference,0.001530991497122528,False
+OBS016,Whisper large-v2 | French | VoxPopuli,11.4,Low,standard_reference,0.0015210009624195076,False
+OBS028,Whisper large-v2 | English | Common Voice,9.0,High,standard_reference,0.0006540645291485892,False
+OBS065,Whisper large-v2 | English/Black or African American | Fair-Speech,9.52,High,curated_reference,0.0005909955703560938,False
+OBS071,Whisper small | English/L1 native English | Fair-Speech,9.54,High,curated_reference,0.0005685130231273541,False
+OBS103,CTC Transformer (5-gram LM) | Italian | MLS,10.54,Low,curated_reference,0.0002587451390145818,False
+OBS013,Whisper large-v2 | Spanish | VoxPopuli,8.2,Medium,standard_reference,0.0001847627897224764,False
